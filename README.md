@@ -18,7 +18,7 @@ Install steps
 -------------------
 # Requirements
 
-0.0: This scrip currently tested only on ubuntu 21.04!
+0.0: This script currently tested only on ubuntu 21.04!
 
 0.1: For spin up, env we need installed and configure AWS CLI
 https://docs.aws.amazon.com/cli/latest/userguide/cli-chap-install.html
