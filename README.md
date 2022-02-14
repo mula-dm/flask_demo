@@ -58,7 +58,6 @@ make deploy
 
 5: copy url(CNAME) from the output and open int on the browser
 
-```sh
 Environment details for: demo
   Application name: demo
   Region: us-east-1
@@ -70,7 +69,6 @@ Environment details for: demo
   Updated: 2022-02-14 10:48:02.222000+00:00
   Status: Ready
   Health: Green
-```
 
 # DEPLOY LOCALLY
 1: Prepare scripts
