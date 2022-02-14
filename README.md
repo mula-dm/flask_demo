@@ -59,16 +59,16 @@ make deploy
 5: copy url(CNAME) from the output and open int on the browser
 
 Environment details for: demo
-  Application name: demo
-  Region: us-east-1
-  Deployed Version: app-000000_000000000000
-  Environment ID: x-xxxxxxxxxx
-  Platform: arn:aws:elasticbeanstalk:us-east-1::platform/Docker running on 64bit Amazon Linux 2/3.4.11
-  Tier: WebServer-Standard-1.0
-  **CNAME: demo.eba-xxxxxxxx.us-east-1.elasticbeanstalk.com**
-  Updated: 2022-02-14 10:48:02.222000+00:00
-  Status: Ready
-  Health: Green
+  Application name: demo  
+  Region: us-east-1  
+  Deployed Version: app-000000_000000000000  
+  Environment ID: x-xxxxxxxxxx  
+  Platform: arn:aws:elasticbeanstalk:us-east-1::platform/Docker running on 64bit Amazon Linux 2/3.4.11  
+  Tier: WebServer-Standard-1.0  
+  **CNAME: demo.eba-xxxxxxxx.us-east-1.elasticbeanstalk.com**  
+  Updated: 2022-02-14 10:48:02.222000+00:00  
+  Status: Ready  
+  Health: Green  
 
 # DEPLOY LOCALLY
 1: Prepare scripts
