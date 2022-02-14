@@ -66,7 +66,7 @@ Environment details for: demo
   Environment ID: x-xxxxxxxxxx
   Platform: arn:aws:elasticbeanstalk:us-east-1::platform/Docker running on 64bit Amazon Linux 2/3.4.11
   Tier: WebServer-Standard-1.0
-  CNAME: demo.eba-z6xdmyn8.us-east-1.elasticbeanstalk.com
+  **CNAME: demo.eba-xxxxxxxx.us-east-1.elasticbeanstalk.com**
   Updated: 2022-02-14 10:48:02.222000+00:00
   Status: Ready
   Health: Green
